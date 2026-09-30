@@ -1,0 +1,9 @@
+# IDE and system files
+argv.json
+extensions/
+.antigravity/
+.gemini/
+
+# OS files
+Thumbs.db
+.DS_Store
